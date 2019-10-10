@@ -1,5 +1,5 @@
 {
-  "appId": "io.ionic.starter",
+  "appId": "com.clicker.ionicexitalerttoast",
   "appName": "Ionic4ExitAlertToast",
   "bundledWebRuntime": false,
   "npmClient": "npm",
