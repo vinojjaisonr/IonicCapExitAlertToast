@@ -1,0 +1,7 @@
+{
+  "name": "Ionic4ExitAlertToast",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
